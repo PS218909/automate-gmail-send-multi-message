@@ -1,0 +1,3 @@
+Trail message
+trail message is saved in message.txt file
+bye bye
